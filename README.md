@@ -1,7 +1,5 @@
 # KeziaTrifenaChandra
-Hi There :)
-
-# Halo semua! 
+## Halo semua! 
 
 Perkenalkan nama saya **Kezia Trifena Chandra**.\
 
